@@ -1,0 +1,7 @@
+#Keywords to highlight:
+
+Ultra			KEYWORD1
+
+startup			KEYWORD2
+freeflyLoop		KEYWORD2
+passwordInput	KEYWORD2
